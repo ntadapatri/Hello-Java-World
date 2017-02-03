@@ -9,6 +9,7 @@ public class HelloWorld {
 		
 		System.out.println ("Merge and Push : learnt");
 		System.out.println("Push and merge : doesn't work");
+		System.out.println("Push and merge : now seems to work, lets check");
 	}
 
 }
