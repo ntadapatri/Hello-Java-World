@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("Just learnt Eclipse-Github integration");
 		
 		System.out.println("Working on HEAD branch");
+		
+		System.out.println("Created NECK branch from HEAD");
 	}
 
 }
