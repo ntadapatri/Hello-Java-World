@@ -6,6 +6,9 @@ public class HelloWorld {
 		System.out.println("Hello Java World");
 		
 		System.out.println("Just learnt Eclipse-Github integration");
+		
+		System.out.println ("Merge and Push : learnt");
+		System.out.println("Push and merge : doesn't work");
 	}
 
 }
